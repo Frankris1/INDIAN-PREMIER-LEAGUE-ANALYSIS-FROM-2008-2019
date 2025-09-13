@@ -30,10 +30,10 @@ iv.	Microsoft Word
 
 •	No Primary Key Column in the Dataset.
 
-•	Combining more than two tables without a primary or foreign key posted some challenges as it more takes much time loading the executed query.
+•	Combining more than two tables without a primary or foreign key posted some challenges as it takes much time loading the executed query.
 
 ## DATA VISUALIZATION
-Kindly see the attached file "Frankris - IPL Analysis Visuals.pdf".
+Kindly see the attached file "Frankris - IPL 2008-2019 Analysis Visuals.pdf".
 
 ## INTERPRETATION
 i.	How many Countries made up the teams?
@@ -45,7 +45,7 @@ iii.	Determine the player with the overall Strike-Rate, and their country of ori
 iv.	Determine the team’s performance ranking.
 
 ## RECOMMENDATION
-Based on the analysis of the credit card fraud detection dataset, we recommend that:
+Based on the analysis of the IPL Dataset, we recommend that:
 
 i.	Team’s unity can build strength and make them stronger.
 
